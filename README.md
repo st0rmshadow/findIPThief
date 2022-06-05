@@ -1,2 +1,2 @@
 # findIPThief
-Python script to find IP thief
+Script to find IP thief
